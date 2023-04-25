@@ -63,7 +63,7 @@ ans is yes, we can recreate the node modules by giving
 
 ### _Syntax_
 ```sh
-npm install 
+npm install  
 ```
 What ever you can regenerate on server don't put it on github.com
 
@@ -95,7 +95,7 @@ idex.html source file of html,parcel has created server for us our app is runnin
 - Error Handling
 - Https 
 - Tree Shaking (In a whole code 100's of functions in the code we use 4 to 5 functions the parcel will remove unused code )
-- Has Lazy mode
+- Has Lazy mode.
 
 -- Parcel is fast performant 
 
@@ -110,8 +110,6 @@ npx parcel build index.html
 
 ## What makes your react app faster?
 Just not react lot of the libraries and dependencies to make it production ready applications
-
-
 
 ## Why cdn links is not the preferred way to bring the react and react dom to the project?
  1. Another way to get react into your app is npm
