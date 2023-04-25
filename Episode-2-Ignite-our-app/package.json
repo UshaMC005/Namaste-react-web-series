@@ -1,0 +1,31 @@
+{
+  "name": "episode-2-ignite-our-app",
+  "version": "1.0.0",
+  "description": "This is Namaste React by Usha M C",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UshaMC005/Namaste-react-web-series.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "usha mc"
+  ],
+  "author": "Usha M C",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.8.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserlist":[
+    "last 2 versions"
+  ]
+}
