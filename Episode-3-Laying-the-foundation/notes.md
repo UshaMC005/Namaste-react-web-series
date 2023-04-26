@@ -49,7 +49,7 @@ root.render(heading);
   the js engine the code is transpiled before it reaches the JavaScript engine.
 - Transpiled means converted.
 - Is it parcel is doing the things for you No . parcel is like a manager.
-- parcel installs the babel (managers) that transpiles the code.
+- parcel installs the babel (minister) that transpiles the code.
 - babel job is to transpiles/ convert the jsx code into a react element.
 - Amazing power of JSX
 within the curly brackets you can write any javascript inside it.
