@@ -103,4 +103,4 @@ resList.map((restaurant) => (
 - What are key and props
 - what are Functional components
 - How we can render diffrent components
-- different ways to put css to components and UI
+- Different ways to put css to components and UI
