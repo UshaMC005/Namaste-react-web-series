@@ -7,7 +7,7 @@
   2. Mock screen / Wireframes
 
   ![](wireframe.png) 
-
+  
 ## List of components we gonna build
 
  * Header
@@ -69,6 +69,8 @@
 came in in the first place with id xyz but its unique react will render one restro not all the restro.
 - This is hugh optimization.
 - React doesn't uniquely identify the element it will re render everything inside the res-container.
+
+![](key-explained.png) 
 ### _Syntax_
 ```sh
 <div className="res-container">
