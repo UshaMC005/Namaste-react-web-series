@@ -124,7 +124,7 @@ console.log("Button clicked)
 
 - why are superpowersfull variable coz react is keeping an eye on it tract on it whenever these variable update the react will trigger a div algorithm it will find out the diff blw virtual dom it automagically updates the ui.
 
-it keep the ui and data layer in sync that why react is fast
+it keep the ui and data layer in sync that why react is fast.
 
 
 
