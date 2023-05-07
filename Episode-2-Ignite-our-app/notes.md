@@ -1,4 +1,4 @@
-# When you create a create react app it will automatically give you production ready app.
+# When you create a react app it will automatically give you production ready app.
 
 behind the scenes use webpack and babel
 
